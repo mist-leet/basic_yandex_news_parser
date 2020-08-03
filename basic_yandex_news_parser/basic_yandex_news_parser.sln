@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic_yandex_news_parser", "basic_yandex_news_parser.csproj", "{25178D67-66DA-4A38-9268-D03A5A4FF665}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic_yandex_news_parser", "basic_yandex_news_parser.csproj", "{2A7A48A3-0D4A-40AD-B5CC-0CC46FFB1A60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{25178D67-66DA-4A38-9268-D03A5A4FF665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{25178D67-66DA-4A38-9268-D03A5A4FF665}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{25178D67-66DA-4A38-9268-D03A5A4FF665}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{25178D67-66DA-4A38-9268-D03A5A4FF665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7A48A3-0D4A-40AD-B5CC-0CC46FFB1A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7A48A3-0D4A-40AD-B5CC-0CC46FFB1A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7A48A3-0D4A-40AD-B5CC-0CC46FFB1A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7A48A3-0D4A-40AD-B5CC-0CC46FFB1A60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D604F681-3E5C-4B81-B787-847A2C8E73C7}
+		SolutionGuid = {1304AA8B-4978-4439-87F2-7EE0BF79DAEF}
 	EndGlobalSection
 EndGlobal
